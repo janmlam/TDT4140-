@@ -1,9 +1,7 @@
-#h1 This was a project for TDT4140 - Software Engineering 2020. 
+# h1 This was a project for TDT4140 - Software Engineering 2020. 
 
 
-
-
-#h1 How to run
+# h1 How to run and etc.
 install python, pip, react, yarn
 
 * running enviroment:
