@@ -1,5 +1,5 @@
-# This was a project for TDT4140 - Software Engineering 2020. 
-
+# This was a project for TDT4140 - Software Engineering 2020.  Imported from GitLab.
+* We were seven person together working together. Logs, sprints duration were not imported. 
 
 ## How to run and etc.
 install python, pip, react, yarn
