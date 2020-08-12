@@ -1,3 +1,9 @@
+#h1 This was a project for TDT4140 - Software Engineering 2020. 
+
+
+
+
+#h1 How to run
 install python, pip, react, yarn
 
 * running enviroment:
@@ -16,3 +22,4 @@ install python, pip, react, yarn
 ** npm install react-hook-form
 ** npm install react-router-dom
 ** yarn start
+
